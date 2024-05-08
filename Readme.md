@@ -48,3 +48,5 @@ To use the Weather Dashboard, simply type the name of the city in the search inp
 Contributing
 
 Contributions to improve the Weather Dashboard are welcome. Please fork the repository and submit a pull request with your changes.
+
+https://supermvs1991.github.io/MVS-Challenge6/
